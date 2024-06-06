@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\bin\Debug\net8.0\StarWarPlanet.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\bin\Debug\net8.0\StarWarPlanet.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\bin\Debug\net8.0\StarWarPlanet.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\bin\Debug\net8.0\StarWarPlanet.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\bin\Debug\net8.0\StarWarPlanet.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\refint\StarWarPlanet.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\StarWarPlanet.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\StarWarPlanet\StarWarPlanet\obj\Debug\net8.0\ref\StarWarPlanet.dll
